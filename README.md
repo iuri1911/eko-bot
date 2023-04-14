@@ -1,11 +1,13 @@
-# Eko Bot: Text-based Chatbot
+# Eko Bot: Multipurpose GPT-Powered Chatbot
 
 ![Eko Bot Banner](https://media.discordapp.net/attachments/1096154265745096736/1096530263250583682/image.png)
 
 *The image above shows the bot responding to a question about a recent event, which was added to its database.*
+
 ## About the Project
 
-Eko Bot is a simple chatbot developed in Python that uses a text file as its source of information to generate responses. The chatbot is integrated with Discord and utilizes Llama Index to generate responses based on the content of the text file.
+Eko Bot is a powerful and versatile chatbot developed in Python, capable of extracting and assimilating information from APIs, chat services, and cloud storage services like Google Drive and OneDrive. By combining the power of GPT and vector databases, Eko Bot can provide context-aware and meaningful responses based on the integrated data sources. Integrated with Discord, Eko Bot utilizes Llama Index to generate responses based on the content of the text file and other data sources.
+
 
 ## Table of Contents
 
