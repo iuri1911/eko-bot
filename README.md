@@ -1,5 +1,8 @@
 # Eko Bot: Text-based Chatbot
 
+![Eko Bot Banner](https://media.discordapp.net/attachments/1096154265745096736/1096530263250583682/image.png)
+
+*The image above shows the bot responding to a question about a recent event, which was added to its database.*
 ## About the Project
 
 Eko Bot is a simple chatbot developed in Python that uses a text file as its source of information to generate responses. The chatbot is integrated with Discord and utilizes Llama Index to generate responses based on the content of the text file.
@@ -51,4 +54,8 @@ poetry run python bot.py
 - `.env`: A file containing the required environment variables.
 - `bot.py`: The main Python script that contains the code for the Discord bot and Llama Index integration.
 - `index.json`: A file containing the vectorized output of the `data.txt` file.
-- `pyproject.toml`:
+- `pyproject.toml`: The configuration file for the project, containing metadata, dependencies, and build information.
+
+## Credits
+
+This project was developed by Iuri Ribeiro. You can find him on most social media platforms as [@iuri1911](https://www.linkedin.com/in/iuri1911/).
